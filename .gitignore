@@ -1,0 +1,30 @@
+# Archivos de clase
+*.class
+
+# Directorios de compilación
+/bin/
+/build/
+/out/
+/target/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de NetBeans
+nbproject/private/
+build/
+dist/
+
+# Archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos de configuración de IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

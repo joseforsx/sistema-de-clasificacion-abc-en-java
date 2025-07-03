@@ -36,9 +36,13 @@ AnalisisABC/
 ├── Source Packages/
 
 │ └── Interfaces/
+
 │ ├── InventarioABC.java # Clase principal con la interfaz gráfica
+
 │ └── Producto.java # Clase que representa cada producto
+
 ├── README.md
+
 └── .gitignore
 
 

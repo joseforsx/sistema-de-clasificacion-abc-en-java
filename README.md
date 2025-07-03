@@ -55,7 +55,7 @@ AnalisisABC/
 
 ## 📅 Fecha
 
-Proyecto desarrollado en marzo de 2025.
+Proyecto desarrollado en marzo de 2024.
 
 ## 👨‍💻 Autor
 

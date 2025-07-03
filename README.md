@@ -1,7 +1,7 @@
 # Sistema de Clasificación ABC en Java
 
 🎓 **Proyecto universitario**  
-Desarrollado en la Universidad Abierta y a Distancia de México (UnADM), durante el semestre 2025-1.
+Desarrollado en la Universidad Abierta y a Distancia de México (UnADM), durante el semestre 2024-1.
 
 Este sistema aplica el análisis ABC a productos en inventario, clasificándolos en categorías **A**, **B** y **C** con base en su **costo unitario**. Es una herramienta útil para identificar los productos más relevantes en términos de valor económico.
 

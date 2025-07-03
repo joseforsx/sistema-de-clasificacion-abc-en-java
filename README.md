@@ -33,9 +33,9 @@ El análisis ABC es una técnica de clasificación utilizada en la gestión de i
 
 AnalisisABC/
 ├── Source Packages/
-│   └── Interfaces/
-│       ├── InventarioABC.java  # Clase principal con la interfaz gráfica
-│       └── Producto.java       # Clase que representa cada producto
+│ └── Interfaces/
+│ ├── InventarioABC.java # Clase principal con la interfaz gráfica
+│ └── Producto.java # Clase que representa cada producto
 ├── README.md
 └── .gitignore
 
